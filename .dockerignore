@@ -1,0 +1,22 @@
+
+# Git
+.git
+.github
+
+# Editor files
+.vscode
+.idea
+
+# Local environment and secrets
+.env
+.env.*
+*.log
+
+# Documentation not needed for the build
+README.md
+CLAUDE.md
+
+# Local build artifacts
+bin/
+tmp/
+*.exe
